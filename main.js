@@ -37,5 +37,5 @@ document.querySelector(".search-bar").addEventListener("keyup", function(){
     }
 })
 
- weather.fetchWeather("Denver")
+ weather.fetchWeather("Bamenda")
 
